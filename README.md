@@ -1,6 +1,6 @@
-<div align="center">
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Lee-Soyeon's%20Github&fontSize=72)
-</div>
+
 
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
