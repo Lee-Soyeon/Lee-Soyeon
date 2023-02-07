@@ -1,7 +1,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&fontSize=72&animation=fadeIn)
 
-<h1 align="center">About Me 🎶<h1>
+<h1 align="center">📄 About Me<h1>
 <p align="center">
   <img width="267" alt="스크린샷 2023-02-07 오후 2 38 50" src="https://user-images.githubusercontent.com/39182235/217157997-a22ad09e-a2ee-41eb-87a7-3ed7eeea70bd.png">
 
@@ -30,7 +30,7 @@
   
 <br><br><br><br>
 
-<h1 align="center">🛠 Tech Stack 🛠</h1>
+<h1 align="center">🛠 Tech Stack</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/C-007396?style=flat-square&logo=C&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/></a>&nbsp
@@ -50,7 +50,7 @@
 
 <br><br><br><br>
 
-<h1 align="center">🧑🏻‍💻 My Github Stats 👩🏻‍💻</h1>
+<h1 align="center">🧑🏻‍💻 My Github Stats</h1>
 <div align="center">
 
 [![Lee-Soyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lee-Soyeon&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=omni)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/Lee-Soyeon/))
