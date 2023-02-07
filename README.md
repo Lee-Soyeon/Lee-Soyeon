@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&fontSize=72&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&text=WELCOME&color=timeGradient&height=300&section=header&fontSize=72&animation=fadeIn)
 
 <h1 align="center">📄 About Me<h1>
 <p align="center">
