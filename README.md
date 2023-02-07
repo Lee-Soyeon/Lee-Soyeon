@@ -16,16 +16,14 @@
 > ***Master.*** 연세대학교 정보대학원 UX | Graduate School Of Information,Yonsei University Ai & Mobility UX LAB
 
 > **Phone**  +82 10-3735-8219
-> 
-> 
->  **Email**  leesoyena@gmail.com
-> 
->  **GIthub** [https://github.com/Lee-Soyeon](https://github.com/Lee-Soyeon)
-> 
->  **Linkedin** [https://www.linkedin.com/in/lee-soyeon/](https://www.linkedin.com/in/lee-soyeon/)
-> 
 
-<a href="https://github.com/seondal"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseondal&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a>
+>  **Email**  leesoyena@gmail.com
+
+>  **Github** <a href="https://github.com/Lee-Soyeon"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseondal&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a>
+
+>  
+>  
+
 
 <h3 align="center">💻 Tech Stack 🖥</h3>
 <p align="center">
@@ -37,6 +35,7 @@
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/React-444444?style=flat-square&logo=react&logoColor=white"/></a>&nbsp
   <br>
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/></a>&nbsp 
