@@ -1,16 +1,14 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Lee-Soyeon's%20Github&fontSize=72)
+![header](https://capsule-render.vercel.app/api?type=Cylinder&color=timeGradient&height=300&section=header&text=Lee-Soyeon's%20Github&fontSize=72)
 
 
 <h3 align="center">🧑🏻‍💻 My Github Stats 👩🏻‍💻</h3>
 <div align="center">
 
-[![Lee-Soyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lee-Soyeon&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+[![Lee-Soyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lee-Soyeon&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=radical)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/Lee-Soyeon/))
 
-<p align="center">\
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lee-Soyeon&show_icons=true&theme=transparent)
-</p>
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lee-Soyeon&theme=radical&repo=DonUTProject)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/Lee-Soyeon/DonutProject))
+</div>
 
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
