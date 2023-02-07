@@ -30,25 +30,36 @@
   
 <br><br><br><br>
 
-<h1 align="center">🛠 Tech Stack</h1>
-<p align="center">
-  <img src="https://img.shields.io/badge/C-007396?style=flat-square&logo=C&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
+<h2 align="center">🛠 Tech Stack</h2>
   <br>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/React-444444?style=flat-square&logo=react&logoColor=white"/></a>&nbsp
-  <br>
-  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/></a>&nbsp 
+<h3 align="center">💻 Programming Languages</h3>
+
+<p>
+  <div align="center">
+    <img src="https://img.shields.io/badge/C-007396?style=for-the-badge&logo=C&logoColor=white&labelColor=282828"/>
+    <img src="https://img.shields.io/badge/-Java-2F71BB?style=for-the-badge&logo=JAVA&logoColor=007396&labelColor=282828">
+    <img src="https://img.shields.io/badge/-Python-3670A0?style=for-the-badge&logo=python&logoColor=3670A0&labelColor=282828">
+    <img src="https://img.shields.io/badge/-Javascript-f1c40f?style=for-the-badge&logo=javascript&logoColor=f1c40f&labelColor=282828">
+  </div>
 </p>
 
-<br><br><br><br>
+</br>
+
+<h3 align="center">⚙️ Library/Framework</h3>
+<p align="center"></a>&nbsp
+  <br>
+  <img src="https://img.shields.io/badge/-React-48dbfb?style=for-the-badge&logo=react&logoColor=48dbfb&labelColor=282828">
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white"/></a>&nbsp
+  <br>
+  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=for-the-badge&logo=MySql&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white"/></a>&nbsp
+  
+  <img src="https://img.shields.io/badge/-Prettier-2c3e50?style=for-the-badge&logo=prettier&logoColor=2c3e50&labelColor=282828">
+</p>
+
+<br>
 
 <h1 align="center">🧑🏻‍💻 My Github Stats</h1>
 <div align="center">
