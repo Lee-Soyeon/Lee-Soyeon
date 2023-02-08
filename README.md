@@ -36,10 +36,10 @@
 
 <p>
   <div align="center">
-    <img src="https://img.shields.io/badge/C-007396?style=for-the-badge&logo=C&logoColor=white&labelColor=282828"/>
-    <img src="https://img.shields.io/badge/-Java-2F71BB?style=for-the-badge&logo=JAVA&logoColor=007396&labelColor=282828">
-    <img src="https://img.shields.io/badge/-Python-3670A0?style=for-the-badge&logo=python&logoColor=3670A0&labelColor=282828">
-    <img src="https://img.shields.io/badge/-Javascript-f1c40f?style=for-the-badge&logo=javascript&logoColor=f1c40f&labelColor=282828">
+    <img src="https://img.shields.io/badge/C-007396?style=flat-square&logo=C&logoColor=white&labelColor=282828"/>
+    <img src="https://img.shields.io/badge/-Java-2F71BB?style=flat-square&logo=JAVA&logoColor=007396&labelColor=282828">
+    <img src="https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python&logoColor=3670A0&labelColor=282828">
+    <img src="https://img.shields.io/badge/-Javascript-f1c40f?style=flat-square&logo=javascript&logoColor=f1c40f&labelColor=282828">
   </div>
 </p>
 
