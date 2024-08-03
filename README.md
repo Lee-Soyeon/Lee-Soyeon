@@ -18,8 +18,6 @@
 
 <h4 align="center">📘 Master. 연세대학교 정보대학원 UX | Graduate School Of Information,Yonsei University Ai & Mobility UX LAB</h4>
 
-<h4 align="center"> 📱 Phone  +82 10-3735-8219</h4>
-
 <h4 align="center"> ✉️ Email  leesoyena@gmail.com</h4>
 
 <h4 align="center"> 🖥 Github 
