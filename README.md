@@ -7,10 +7,7 @@
 
   <h2 align="center">이소연 李沼姸 Soyeon Lee</h2>
 
-  <p align="center">안녕하세요? 컴퓨터학과를 전공하며 앱과 웹 개발, 데이터 분석 프로젝트를 통해 쌓아온 경험과<br>
-  UX를 전공하며 사용자를 중심으로 생각해온 경험을 융합할 수 있는 UX Engineer가 되는 것을 희망하고 있습니다.<br>
-  언젠가는 내 손으로, 내 힘으로 세상에 좋은 영향력을 끼칠 수 있는 서비스를 위해 뭐든지 할 자신이 있으며,<br>
-  그 과정 또한 항상 재미있게 즐기려고 합니다! 이렇게 만나뵙게 되어 정말 반갑습니다 :) </p>
+  <p align="center">> Hello! I hope to combine my experience gained through app and web development, data analysis projects while majoring in Computer Science, with my user-centered thinking experience from studying UX. I am confident in my ability to do whatever it takes to create a service that can have a positive impact on the world with my own hands and strength someday, and I always try to enjoy the process! It's truly a pleasure to meet you like this :)</p>
 
 
 <h4 align="center">📕 Bachelor. 동덕여자대학교 컴퓨터학과 | Dongduk Women’s University Dept. of Computer Science</h4>
