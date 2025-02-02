@@ -56,17 +56,4 @@
 
 <br>
 
-<h1 align="center">🧑🏻‍💻 My Github Stats</h1>
-<div align="center">
-
-[![Lee-Soyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lee-Soyeon&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=omni)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/Lee-Soyeon/))
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lee-Soyeon&theme=omni)](https://github.com/Lee-Soyeon/github-readme-stats)
-
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lee-Soyeon&theme=omni&repo=DonUTProject)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/Lee-Soyeon/DonutProject))
-
- <img src="http://mazandi.herokuapp.com/api?handle={soyena729}&theme=dark"/>
-
-</div>
-
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=footer)
