@@ -7,7 +7,7 @@
 
   <h2 align="center">이소연 李沼姸 Soyeon Lee</h2>
 
-  <p align="center">> Hello! I hope to combine my experience gained through app and web development, data analysis projects while majoring in Computer Science, with my user-centered thinking experience from studying UX. I am confident in my ability to do whatever it takes to create a service that can have a positive impact on the world with my own hands and strength someday, and I always try to enjoy the process! It's truly a pleasure to meet you like this :)</p>
+  <p align="center">Hello! I hope to combine my experience gained through app and web development, data analysis projects while majoring in Computer Science, with my user-centered thinking experience from studying UX. I am confident in my ability to do whatever it takes to create a service that can have a positive impact on the world with my own hands and strength someday, and I always try to enjoy the process! It's truly a pleasure to meet you like this :)</p>
 
 
 <h4 align="center">📕 Bachelor. 동덕여자대학교 컴퓨터학과 | Dongduk Women’s University Dept. of Computer Science</h4>
